@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Regression Methods & DOE**
 
-- 📫 How to reach me **tuanleanh2112.work@gmail.com**
+- 📫 How to reach me: **tuanleanh2112.work@gmail.com**
 
 - ⚡ Fun fact: **I am Funny (not everytime)**
 
