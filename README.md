@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **LG Innotek**
 
-- 🌱 I’m currently learning **Stochastic Processes & Predictive Modeling**
+- 🌱 I’m currently learning **Stochastic Processes**
 
 - 🤝 I’m looking for help with **Stochastic Modeling**
 
