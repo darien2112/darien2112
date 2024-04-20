@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tuanleanh2112.work@gmail.com**
 
-- ⚡ Fun fact **I am Funny (not everytime)**
+- ⚡ Fun fact: **I am Funny (not everytime)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
