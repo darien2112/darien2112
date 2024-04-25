@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Stochastic Modeling**
 
-- 💬 Ask me about **Regression Methods & DOE**
+- 💬 Ask me about **Regression Methods & DOEs**
 
 - 📫 How to reach me: **tuanleanh2112.work@gmail.com**
 
